@@ -19,5 +19,7 @@ public class GitTest {
         System.out.println("mayun test2");
         System.out.println("Gitee test2");
         System.out.println("Gitee test2");
+        System.out.println("Gitee test3");
+        System.out.println("Gitee test4");
     }
 }
